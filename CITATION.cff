@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Brushed Metal - Packed Dot Products to Anisotropic GGX
+message: If you use this software or technical report, please cite this repository.
+type: software
+authors:
+  - family-names: Hurley
+    given-names: Kenneth
+year: 2026
+repository-code: https://github.com/Super-Genius/BrushedMetal
+url: https://www.realistic3d.com/brushed_metal.htm
+license: MIT

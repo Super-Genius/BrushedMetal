@@ -1,0 +1,10 @@
+{
+  "name": "com.supergenius.brushed-metal",
+  "version": "0.1.0",
+  "displayName": "Brushed Metal",
+  "description": "Historical packed NdotL/NdotH brushed-metal shader reconstruction with modern anisotropic GGX comparison for Unity 6 URP.",
+  "unity": "6000.0",
+  "keywords": ["brushed metal", "anisotropy", "ggx", "normal map", "shader", "urp", "nveffectsbrowser", "historical"],
+  "author": {"name": "Kenneth Hurley", "url": "https://github.com/Super-Genius"},
+  "samples": [{"displayName": "Brushed Metal Comparison", "description": "Historical packed response vs isotropic and anisotropic PBR modes.", "path": "Samples~/BrushedMetalComparison"}]
+}
